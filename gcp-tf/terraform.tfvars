@@ -1,4 +1,5 @@
-project = "karthikproject-343510"
+project = "karthikproject"
 region  = "asia-south1"
 zone    = "asia-south1-a"
+
 
